@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#2196F3</color>
+    <color name="primary_dark">#1976D2</color>
+    <color name="primary_light">#BBDEFB</color>
+    <color name="accent">#4CAF50</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#727272</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="divider">#B6B6B6</color>
+    
+    <!--  自定义背景色值  -->
+    <color name="most_bg">#e3e3e3</color>  <!-- 大多数背景 -->
+    <color name="top_bg">#f8f8f8</color>  <!-- 顶部背景 -->
+    <color name="calendar_bg">#f9f9f9</color> <!-- 日历大背景 -->
+    <color name="calendar_day_bg">#f5f5f5</color> <!-- 日历每天的背景 -->
+    
+    <!-- 自定义线色值 -->
+    <color name="divider_line">#ededed</color>  <!-- 分割线 -->
+    
+    <!-- 自定义文字色值 -->
+    <color name="title_one">#000000</color> <!-- 一级标题颜色 -->
+    <color name="top_text">#5b5b5b</color> <!-- 顶部文字颜色 -->
+    <color name="content_two">#888888</color> <!-- 二级内容颜色 -->
+    <color name="auxiliary_right">#000000</color> <!-- 右侧辅助色  auxiliary：辅助的意思 -->
+    <color name="annotation_little">#dcdcdc</color> <!-- 时间等小注释色，白色背景用，很少用 -->
+    <color name="top_label_unclick">#adb0b6</color> <!-- 顶部标签未点击颜色 -->
+    
+    <!-- 彩色 -->
+    <color name="main_color">#21b589</color>  <!-- 主色 -->
+    
+    
+    
+</resources>
