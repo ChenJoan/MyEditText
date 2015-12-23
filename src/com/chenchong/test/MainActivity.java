@@ -8,7 +8,7 @@ import android.os.Bundle;
 
 public class MainActivity extends Activity {
 
-    GridPasswordView gpvNormal;
+    GridPasswordView gpvNormal;  
 //    @InjectView(R.id.gpv_length)
 //    GridPasswordView gpvLength;
 //    @InjectView(R.id.gpv_transformation)
